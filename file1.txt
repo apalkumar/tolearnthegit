@@ -2,5 +2,9 @@ file 1 code
 
 hellother testing data
 
+<<<<<<< HEAD
 
 Master Filr 1
+=======
+Mobile 1 2 3
+>>>>>>> DevA
