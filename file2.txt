@@ -1,7 +1,11 @@
 file 2 code
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master Filr 2
 =======
 Mobile 1 2 3 4
 >>>>>>> DevA
+=======
+Changes by Dev B 1
+>>>>>>> DevB
