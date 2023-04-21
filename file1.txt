@@ -2,4 +2,14 @@ file 1 code
 
 hellother testing data
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+Master Filr 1
+=======
 Mobile 1 2 3
+>>>>>>> DevA
+=======
+
+Changes by Dev B
+>>>>>>> DevB
